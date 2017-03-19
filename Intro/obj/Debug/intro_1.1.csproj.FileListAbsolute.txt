@@ -1,0 +1,8 @@
+D:\Repository\dotNET_ATMP\ATMP\intro_1.1\bin\Debug\intro_1.1.exe.config
+D:\Repository\dotNET_ATMP\ATMP\intro_1.1\bin\Debug\intro_1.1.exe
+D:\Repository\dotNET_ATMP\ATMP\intro_1.1\bin\Debug\intro_1.1.pdb
+D:\Repository\dotNET_ATMP\ATMP\intro_1.1\obj\Debug\intro_1.1.exe
+D:\Repository\dotNET_ATMP\ATMP\intro_1.1\obj\Debug\intro_1.1.pdb
+D:\repos\dotNET_ATMP\ATMP\intro_1.1\bin\Debug\intro_1.1.exe.config
+D:\repos\dotNET_ATMP\ATMP\intro_1.1\obj\Debug\intro_1.1.exe
+D:\repos\dotNET_ATMP\ATMP\intro_1.1\obj\Debug\intro_1.1.pdb

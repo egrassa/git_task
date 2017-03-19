@@ -1,0 +1,6 @@
+D:\repos\dotNET\introc\Collection_prelim_ver\bin\Debug\Collection_prelim_ver.exe.config
+D:\repos\dotNET\introc\Collection_prelim_ver\bin\Debug\Collection_prelim_ver.exe
+D:\repos\dotNET\introc\Collection_prelim_ver\bin\Debug\Collection_prelim_ver.pdb
+D:\repos\dotNET\introc\Collection_prelim_ver\obj\Debug\Collection_prelim_ver.exe
+D:\repos\dotNET\introc\Collection_prelim_ver\obj\Debug\Collection_prelim_ver.pdb
+D:\repos\dotNET\introc\Collection_prelim_ver\obj\Debug\Collection_3.csprojResolveAssemblyReference.cache
