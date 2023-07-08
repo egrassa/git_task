@@ -13,7 +13,7 @@ namespace Collection_3
         {
             
             //hard-coded base simulation
-            List<string> stuff = new List<string>() { "notebook", "tablet", "smart-phone", "cellphone", "dect-phone", "smart bracelet", "hands-free", "3G modem" };
+            List<string> stuff = new List<string>() { "notebook", "tablet", "smart-phone", "cellphone", "dect-phone", "smart bracelet", "hands-free", "3G modem", "4G modem" };
             Dictionary<string, List<string>> HistoryCart = new Dictionary<string, List<string>>()
             {{"John", new List<string>{"notebook", "tablet", "smart-phone", "cellphone", "tablet"}},{"Marry", new List<string>{"cellphone", "tablet", "smart-phone"}},{"Rich", new List<string>{"dect-phone", "hands-free"}}};
 
@@ -160,10 +160,11 @@ namespace Collection_3
                     return c_cart;
             }
         }
-
+        /*
         bool ReadUserInput()
         {
 
         }
+        */
     }
 }
